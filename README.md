@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zxdsc
 - 👀 I’m interested in functional programming. 
-- 🌱 I’m currently learning Haskell, and after that I'm going to learn Scala
+- 🌱 I’m currently learning Scala
 - 💞️ I’m looking to collaborate on any useful project with Java, Haskell or Scala :)
 
 <!---
